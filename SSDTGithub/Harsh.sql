@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Harsh]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY
+)

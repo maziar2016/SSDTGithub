@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[Harsh]
 (
 	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
-    [FIrstname] NVARCHAR(50) NULL
+    [Fname] NVARCHAR(50) NULL
 )

@@ -62,4 +62,7 @@
     <Build Include="Harsh.sql" />
     <Build Include="Sp_Ins_Test.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="SSDTGithub.refactorlog" />
+  </ItemGroup>
 </Project>

@@ -60,5 +60,6 @@
   <ItemGroup>
     <Build Include="Test.sql" />
     <Build Include="Harsh.sql" />
+    <Build Include="Sp_Ins_Test.sql" />
   </ItemGroup>
 </Project>

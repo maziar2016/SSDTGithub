@@ -4,5 +4,6 @@
     [FirstName] VARCHAR(50) NULL, 
     [LastName] VARCHAR(50) NULL, 
     [DateAdded] DATETIME NULL DEFAULT getdate(), 
-    [DateModified] DATETIME NULL DEFAULT getdate()
+    [DateModified] DATETIME NULL DEFAULT getdate(), 
+    [TelNo] VARCHAR(50) NULL
 )

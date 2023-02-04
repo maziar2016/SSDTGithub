@@ -3,6 +3,6 @@
 	@LastName NVARCHAR(100),
 	@TelNo NVARCHAR(50)
 AS
-	INSERT INTO test (FirstName,lastname,PhoneNumber)
+	INSERT INTO test (FName,lastname,PhoneNumber)
 	VALUES(@FirstName,@LastName,@TelNo)
 RETURN 0
